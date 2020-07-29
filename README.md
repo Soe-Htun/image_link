@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+```
+get Id and date in this link
+47.56.5.181:8080/betImage/
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
